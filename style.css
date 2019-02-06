@@ -1,0 +1,147 @@
+body
+{
+    text-decoration: none;
+}
+    table
+{
+    border: 0,5px solid black;
+    border-collapse: collapse;
+}
+
+td
+{
+    list-style-type: none;   
+  ;
+}
+table,th,td
+{
+   font-size: 155%
+}
+th,td
+{
+padding-left: 100px;
+padding-right: 100px
+}
+#t1
+{
+  color: white;
+    background-color: red;
+list-style-type: none;
+
+}
+tr
+{
+list-style-type: none;
+
+}
+#wq
+{
+ 
+    background-color: chartreuse;
+    list-style-type: none;
+
+
+
+
+}
+#qwe
+{
+    list-style-type: none;
+    color: white;
+    
+}
+#as
+{
+background-color: rgb(95, 193, 218);
+
+}
+#ase
+{
+    list-style-type: none;
+    color:white
+}
+#i1
+{
+background-color: red;
+}
+#i2
+{
+color: white;
+}
+#a1
+{
+background-color: slateblue;
+}
+#a2
+{
+ color: white   
+}
+a:hover {
+     
+    
+    color: black;
+    background-color: transparent;
+
+}
+a{
+
+text-decoration: none;
+
+}
+#ase:hover{
+
+
+    color: black;
+    background-color: red;
+
+}
+#qwe:hover{
+    color: black;
+    background-color: aqua;
+
+}
+#i2:hover{
+    color: black;
+    background-color: blue;
+
+}
+
+
+
+
+#a2:hover{
+    color: black;
+    background-color: white;
+
+}
+div
+{
+background-color: dimgrey;
+font-size: 150%;
+color: aliceblue;
+}
+img
+{
+
+}
+
+li{
+    display: inline;
+}
+ul {
+
+    list-style-type: none;
+  
+    margin: 0;
+  
+    padding: 1%;
+  
+    overflow: hidden;
+  
+    background-color: #333333;
+  
+  }
+  p
+  {
+      margin: 1%;
+  }
